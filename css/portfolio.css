@@ -1,0 +1,16 @@
+h1{
+  color: black;
+  text-align: center;
+}
+h2{
+  color: black;
+  font-family: fantasy;
+  font-style: italic;
+  text-align: center;
+}
+p{
+  color: black;
+  font-style: normal;
+  font-size: 22px;
+  font-family: monospace;
+}
