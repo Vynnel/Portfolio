@@ -1,1 +1,3 @@
 # Portfolio
+## Authors
+{Vynnel Omondi}
